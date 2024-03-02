@@ -3,7 +3,11 @@ Assignment for University - Finished Version
 
 Floyd's Algorithm - Recursive Implementation This project explores a recursive implementation of Floyd's algorithm for finding all-pairs shortest paths in a weighted graph. It includes a unit test, performance analysis, and a comparison against an iterative implementation.
 
-Project Structure src/floyd_warshall.py: Contains the recursive implementation of Floyd's algorithm. tests/test_floyd_warshall.py: Houses unit tests to verify the implementation's correctness. requirements.txt: Lists project dependencies.
+Project Structure 
+src/floyd_warshall.py: Contains the recursive implementation of Floyd's algorithm. 
+tests/test_floyd_warshall.py: Houses unit tests to verify the implementation's correctness. 
+requirements.txt: Lists project dependencies.
+individual_report.pdf: Finished report/ analysis 
 
 Installation Clone the repository:
 Bash git clone https://github.com/edwardh98/floyd-warshall-finished-assignment
