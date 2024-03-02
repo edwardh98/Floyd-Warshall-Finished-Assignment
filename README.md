@@ -21,4 +21,4 @@ Testing Run unit tests:
 Bash pytest
 
 The individual_report.pdf file contains:
-A detailed explanation of the recursive implementation. Testing strategy and coverage discussion. Performance analysis and hypothesis on differences between recursive and iterative versions.
+A detailed explanation of the recursive and iterative implementation. Testing strategy and coverage discussion. Performance analysis and hypothesis on differences between recursive and iterative versions.
