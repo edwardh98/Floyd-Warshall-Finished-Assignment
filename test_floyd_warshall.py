@@ -1,7 +1,5 @@
 import unittest
 from src.floyd_warshall import floyd_warshall_recursive
-import time
-import numpy as np
 
 class TestFloydWarshall(unittest.TestCase):
 
